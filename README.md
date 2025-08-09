@@ -106,5 +106,5 @@ df_clean.to_csv("noise_clusters.csv", index=False)
 - The generated plot is displayed in the browser using `matplotlib` and base64 encoding.
 
 ---
-💡 **Author:** Your Name  
+💡 **Author:** Sam Stephen  
 📅 **Date:** 2025
